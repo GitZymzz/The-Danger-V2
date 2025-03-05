@@ -4,21 +4,21 @@ const fs = require('fs')
 //Bot Settings
 global.connect = true 
 global.publicX = true 
-global.owner = ['6282298243812'] 
-global.developer = "DepayGanteng" 
+global.owner = ['6283853787611'] 
+global.developer = "𝒁𝒚𝒎𝒛𝒛" 
 global.botname = "Noxious" 
 global.version = "3.0.0" 
 
 //Setting Sticker
 global.packname = "Sticker By" 
-global.author = "DepayyNoCounter" 
+global.author = "𝒁𝒚𝒎𝒛𝒛" 
 
 //Setting Media
-global.ytube = "https://youtube.com/@DepayyAslii"
-global.ttok = "https://tiktok.com"
-global.igram = "https://instagram.com/@ohhdep"
+global.ytube = "https://youtube.com/@-"
+global.ttok = "https://tiktok.com/@camzym7"
+global.igram = "https://instagram.com/@zamanil_azim123"
 global.chtele = "https://t.me"
-global.tgram = "https://t.me"
+global.tgram = "https://t.me/@camzym"
 
 //Bug Name Settings
 global.bak = {
